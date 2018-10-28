@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Piovezana.Domain\Piovezana.Domain.csproj" />
+    <ProjectReference Include="..\Piovezana.Infra\Piovezana.Infra.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Piovezana.Shared">
+      <HintPath>bin\Debug\netcoreapp2.0\Piovezana.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="Uol.PagSeguro">
+      <HintPath>..\..\..\..\Desktop\pagseguro-sdk-dotnet-master\source\Uol.PagSeguro\bin\Release\Uol.PagSeguro.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\bin\Debug\netcoreapp2.0\Piovezana.Shared.deps.json
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\bin\Debug\netcoreapp2.0\Piovezana.Shared.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\bin\Debug\netcoreapp2.0\Piovezana.Shared.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\obj\Debug\netcoreapp2.0\Piovezana.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\obj\Debug\netcoreapp2.0\Piovezana.Shared.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\obj\Debug\netcoreapp2.0\Piovezana.Shared.AssemblyInfo.cs
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\obj\Debug\netcoreapp2.0\Piovezana.Shared.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\obj\Debug\netcoreapp2.0\Piovezana.Shared.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Shared\obj\Debug\netcoreapp2.0\Piovezana.Shared.csprojResolveAssemblyReference.cache

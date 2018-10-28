@@ -1,0 +1,35 @@
+<ion-view style="" class=" " id="page5" title="Login">
+   
+   <div class ="bg-login">
+       <div class="overlay" >
+  
+		<form name="loginForm" class="list " id="login-form1">
+            <ion-list class=" " id="login-list2">
+
+                <div class="app-icon"></div>
+                <ion-item  class="bg-trasnparent no-padding mg-top-30">
+                <label class="item item-input item-floating-label">
+                    <span class="input-label" style="color: #9F9F9F;">Email</span>
+                    <input ng-model="user.email" style="color: white;" type="email" placeholder="Email">
+                </ion-item>
+                <ion-item class="bg-trasnparent no-padding">
+                </label>
+                <label class="item item-input item-floating-label">
+                    <span class="input-label" style="color: #9F9F9F;" >Senha</span>
+                    <input ng-model="user.password" style="color: white;" type="password" placeholder="Password">
+                </label>
+            </ion-item>
+
+            </ion-list>
+
+            <div style="height: 40px;" class="spacer"></div>
+            <button ng-click="loginEmail(loginForm,user)" class=" button button-assertive  button-block  icon-left ion-ios-email-outline mg-top-40"  id="signup-button3">LOGIN COM E-MAIL</button>
+            <button ng-click="loginFb('facebook')" class=" button button-positive  button-block icon-left ion-social-facebook "  id="signup-button4">lOGIN COM FACEBOOK</button>
+        </form>
+
+		<a class=" button button-stable  button-block button-clear icon-left ion-ios-email-outline " id="login-button5" ui-sref="tabsController.forgotPassword">EQUECI MINHA SENHA</a>
+
+    </div>
+</div>
+
+</ion-view>

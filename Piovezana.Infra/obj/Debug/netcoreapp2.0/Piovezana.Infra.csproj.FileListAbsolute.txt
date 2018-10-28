@@ -1,0 +1,15 @@
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\obj\Debug\netcoreapp2.0\Piovezana.Infra.csprojResolveAssemblyReference.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\obj\Debug\netcoreapp2.0\Piovezana.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\obj\Debug\netcoreapp2.0\Piovezana.Infra.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\obj\Debug\netcoreapp2.0\Piovezana.Infra.AssemblyInfo.cs
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Domain.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Shared.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Shared.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Infra.deps.json
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Infra.runtimeconfig.json
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Infra.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Infra.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Infra.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\bin\Debug\netcoreapp2.0\Piovezana.Domain.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\obj\Debug\netcoreapp2.0\Piovezana.Infra.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Infra\obj\Debug\netcoreapp2.0\Piovezana.Infra.pdb

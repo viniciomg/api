@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.Resource.MSG.resources
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.csproj.GenerateResource.Cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.AssemblyInfo.cs
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\bin\Debug\netcoreapp2.0\Piovezana.Domain.deps.json
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\bin\Debug\netcoreapp2.0\Piovezana.Domain.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\bin\Debug\netcoreapp2.0\Piovezana.Domain.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\obj\Debug\netcoreapp2.0\Piovezana.Domain.pdb
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\bin\Debug\netcoreapp2.0\Uol.PagSeguro.dll
+C:\Users\vinic\source\repos\PiovezanaTCC\Piovezana.Domain\bin\Debug\netcoreapp2.0\Uol.PagSeguro.pdb
